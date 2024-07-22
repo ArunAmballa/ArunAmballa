@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **arunamballa24@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://medium.com/analytics-vidhya/math-intuition-and-implementation-of-principal-component-analysis-6f02253ceef9
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
