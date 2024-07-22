@@ -6,10 +6,6 @@ on:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Update README
-        uses: arunamballa/arunamballa/.github/actions/blog-post-workflow@master
-        with:
-          feed_list: 'https://medium.com/feed/@arunamballa24'
+    uses: arunamballa/arunamballa/.github/workflows/blog-post-workflow.yml@master
+    with:
+      feed_list: 'https://medium.com/feed/@arunamballa24'
