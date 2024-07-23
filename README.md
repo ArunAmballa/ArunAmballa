@@ -1,26 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arun Amballa</h1>
-
-<div >
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-</div>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunamballa" alt="arunamballa" /></a> </p>
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/arunamballa" target="blank"><img src="https://img.shields.io/twitter/follow/arunamballa?logo=twitter&style=for-the-badge" alt="arunamballa" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 📝 I regularly write articles on [https://medium.com/@arunamballa24](https://medium.com/@arunamballa24)
-
 - 📫 How to reach me **arunamballa24@gmail.com**
-
-  
-
-  
-
+- 💬 Ask me about
+  - 1.Full Stack Development
+  - 2.System Design
+  - 3.Machine Learning
+  - 4.Data Science
+  - 5.NLP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
