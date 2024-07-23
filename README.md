@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arun Amballa</h1>
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/arunamballa" target="blank"><img src="https://img.shields.io/twitter/follow/arunamballa?logo=twitter&style=for-the-badge" alt="arunamballa" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@arunamballa24](https://medium.com/@arunamballa24)
 - 📫 How to reach me **arunamballa24@gmail.com**
 - 💬 Ask me about
-  - 1.Full Stack Development
-  - 2.System Design
-  - 3.Machine Learning
-  - 4.Data Science
-  - 5.NLP
+  - Full Stack Development
+  - System Design
+  - Machine Learning
+  - Data Science
+  - NLP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -145,8 +146,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunamballa&show_icons=true&locale=en&layout=compact" alt="arunamballa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunamballa&show_icons=true&locale=en&layout=compact" alt="arunamballa"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunamballa&show_icons=true&locale=en" alt="arunamballa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunamballa&show_icons=true&locale=en" alt="arunamballa"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunamballa&" alt="arunamballa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunamballa&" alt="arunamballa"  /></p>
